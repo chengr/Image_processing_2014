@@ -5,6 +5,7 @@
 #include "roation.h"
 using namespace cv;
 using namespace std;
+////
 Mat image;
 Mat src,src2;
 /// Global variables
