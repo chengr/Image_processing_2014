@@ -13,7 +13,7 @@ Mat src,src2;
 float input_p[8][2];
 //點及對映點次數
 int ads=0;
-int ll=0;
+int ll56=0;
 //滑鼠事件
 void mouse(int event, int x, int y, int flags, void* param);
 void merge(){
